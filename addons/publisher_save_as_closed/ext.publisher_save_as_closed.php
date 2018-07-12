@@ -7,8 +7,6 @@ use EllisLab\ExpressionEngine\Model\Channel\ChannelEntry;
 if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 /**
- * ExpressionEngine Reel Extension Class
- *
  * @package     ExpressionEngine
  * @subpackage  Extensions
  * @category    Publisher - Save as Closed
